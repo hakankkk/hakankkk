@@ -6,7 +6,8 @@
 - 📫 How to reach me: hakan@binalyze.com
 - ⚡ Fun fact: Cyber Security 
 
-Welcome to my Github Page, If you know more please contribute 💻
+<br />
+<p> Welcome to my Github Page, If you know more please contribute 💻 </p>
 <br />
 <br />
 
