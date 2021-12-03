@@ -7,3 +7,7 @@
 - ⚡ Fun fact: Cyber Security 
 
 Welcome to my Github Page, If you know more please contribute 💻
+<br />
+<br />
+
+[twitter]: https://twitter.com/tedhakank
