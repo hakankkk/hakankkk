@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Binalyze
+- 🔭 I’m currently working as a Threat Hunter and Incident Responder
 - 🌱 I’m currently and always learning Cyber Secuirty
-- 👯 I’m looking to collaborate on Yara&Sigma Rules
-- 📫 How to reach me: hakan@binalyze.com
+- 👯 I’m looking to collaborate on Yara&Sigma Rules sometimes SPL
+- 📫 How to reach me: hakank.kilic@gmail.com
 - ⚡ Fun fact: Cyber Security 
 
 <br />
