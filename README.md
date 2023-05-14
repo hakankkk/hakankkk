@@ -10,7 +10,7 @@
 <p> Welcome to my Github Page, If you know more please contribute 💻 🔨</p>
 <br />
 <br />
-Due to the environmental limitations in Incident Response activities, I try to create the same Powershell and CMD Script. (Policies and Blocks )
+Due to the environmental limitations in Incident Response activities, I'm trying to write what I wrote as a Powershell script, and also as a CMD. (Policies and Blocks )
 <br />
 <br />
 
