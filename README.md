@@ -7,7 +7,7 @@
 - ⚡ Fun fact: Cyber Security, cat owner. 
 
 <br />
-<p> Welcome to my Github Page, If you know more please contribute 💻 🔨</p>
+<p>  Welcome to my Github Page, If you know more please contribute 💻 🔨</p>
 <br />
 <br />
 Due to the environmental limitations in Incident Response activities, I'm trying to write what I wrote as a Powershell script, and also as a CMD. (Policies and Blocks )
@@ -17,3 +17,4 @@ Due to the environmental limitations in Incident Response activities, I'm trying
 
 - [Linkedin](https://www.linkedin.com/in/hakan-kili%C3%A7-a11b09ab/)
 - [Twitter](https://twitter.com/tedhakank)
+- ---------------------------------------------------------------------
