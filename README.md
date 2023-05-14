@@ -11,5 +11,11 @@
 <br />
 <br />
 Due to the environmental limitations in Incident Response activities, I try to create the same Powershell and CMD Script. (Policies and Blocks )
+<br />
+<br />
 
 https://twitter.com/tedhakank
+
+<br />
+<br />
+https://www.linkedin.com/in/hakan-kili%C3%A7-a11b09ab/
