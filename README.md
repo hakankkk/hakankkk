@@ -10,5 +10,6 @@
 <p> Welcome to my Github Page, If you know more please contribute 💻 </p>
 <br />
 <br />
+Due to the environmental limitations in Incident Response activities, I try to create the same Powershell and CMD Script. (Policies and Blocks )
 
-[twitter]: https://twitter.com/tedhakank
+https://twitter.com/tedhakank
