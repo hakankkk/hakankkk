@@ -19,6 +19,8 @@ https://twitter.com/tedhakank
 <br />
 <br />
 [My Linkedin](https://www.linkedin.com/in/hakan-kili%C3%A7-a11b09ab/)
-[https://www.linkedin.com/in/hakan-kili%C3%A7-a11b09ab/]: https://www.mozilla.org
+[]: https://www.mozilla.org
 
 https://www.linkedin.com/in/hakan-kili%C3%A7-a11b09ab/
+
+<a href=”https://www.linkedin.com/in/hakan-kili%C3%A7-a11b09ab/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
