@@ -19,5 +19,6 @@ https://twitter.com/tedhakank
 <br />
 <br />
 [My Linkedin](https://www.linkedin.com/in/hakan-kili%C3%A7-a11b09ab/)
+[arbitrary case-insensitive reference text]: https://www.mozilla.org
 
 https://www.linkedin.com/in/hakan-kili%C3%A7-a11b09ab/
